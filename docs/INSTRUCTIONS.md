@@ -1,19 +1,17 @@
 
-# [Sprintnaam] - [Leertaak-Naam]
+# Fix the Flow - Interactive Website
 
-[Beschrijving van de deeltaak]
+Ontwerp en codeer een interactieve website voor een opdrachtgever
 
 ## Context
 
-Deze leertaak hoort bij sprint # [Sprintnaam]. 
-Dit is een leertaak die je [individueel / in een team] uitvoert.
+Deze leertaak hoort bij sprint 5 _Fix the Flow_. 
+Dit is een leertaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college Sprintplanning over Fix the flow krijg je uitleg over de opdracht.
 
-Bij deze leertaak [hoort de deeltaak / horen de deeltaken]:
-- [[deeltaak](link)]
-- [[deeltaak](link)]
-- [[deeltaak](link)]
+Bij deze leertaak hoort de deeltaak:
+- [fix-the-flow-wireflow](https://github.com/fdnd-task/fix-the-flow-wireflow) 
 
 ## Doel van deze opdracht
 
