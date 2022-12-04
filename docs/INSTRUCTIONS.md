@@ -1,7 +1,7 @@
 
 # Fix the Flow - Interactive Website
 
-Ontwerp en codeer een interactieve website voor een opdrachtgever
+Ontwerp en maak een interactieve website voor een opdrachtgever
 
 ## Context
 
