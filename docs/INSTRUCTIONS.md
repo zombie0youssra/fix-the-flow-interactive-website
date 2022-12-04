@@ -39,6 +39,17 @@ Daarna ga je de interactie coder met CSS en JS. Tijdens de code/design review op
 7. Doe een user test tijdens de code/design review in de tweede week en schrijf een verslag van de user test in de Wiki 
 8. Presenteer je werk tijden de sprint review aan de opdrachtgever
 
+### Materiaal
+
+#### Materiaal
+
+- Tutorial  [if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+
+- [MDN QuerySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [MDN ClassList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) 
+- [MDN addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+
+
 
 ## Criteria
 
