@@ -32,13 +32,12 @@ Daarna ga je de interactie coder met CSS en JS. Tijdens de code/design review op
 
 1. Fork deze leertaak
 2. Kies een geschikte User Story uit de backlog van het project waar je aan gaat werken. 
-3. Schrijf de user story waar jij aan gaat werken in de Reame van je repo
+3. Schrijf de User Story in de Readme van je repo
 4. Kopieer de Wireflow die je hebt gemaakt (in de deeltaak) naar de Wiki van je repo
 5. Codeer de interactie met CSS en JS en commit je code naar je repo
-6. Test je ontwerp tijdens de code/design review in de eerste week en maak issues aan van de feedback die je krijgt
-7. Verbeter de feedback en doe een user test tijdens de code/design review in de tweede week, schrijf een verslag van de user test in de Wiki en maak issues aan van verbeterpunten
-8. Verbeter de feedback en schrijf een readme
-9. Presenteer je werk tijden de sprint review aan de opdrachtgever
+6. Test je ontwerp tijdens de code/design review in de eerste week. maak issues aan van de feedback die je krijgt en verbeter de feedback
+7. Doe een user test tijdens de code/design review in de tweede week en schrijf een verslag van de user test in de Wiki 
+8. Presenteer je werk tijden de sprint review aan de opdrachtgever
 
 
 ## Criteria
@@ -54,7 +53,7 @@ Voor deze leertaak gelden de gedragscriteria voor sprint 5:
 
 
 Deze opdracht is done als:
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Je hebt een interactie gecodeerd en het eindresultaat gedocumenteerd in de Readme
+- [ ] Je hebt een code/design review gedaan, issues aangemaakt en de feedback verwerkt
+- [ ] Je hebt een user test gedaan en de test gedocumenteerd in de wiki
 
