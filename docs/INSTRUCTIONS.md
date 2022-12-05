@@ -33,7 +33,7 @@ Daarna ga je de interactie coderen met CSS en JS. Tijdens de code/design review 
 1. Fork deze leertaak
 2. Kies een geschikte User Story uit de backlog van het project waar je aan gaat werken. 
 3. Schrijf de User Story in de Readme van je repo
-4. Kopieer de Wireflow die je hebt gemaakt (in de deeltaak) naar de Wiki van je repo
+4. Kopieer de Wireflow die je hebt gemaakt in de deeltaak _Wireflow_ naar de Wiki van je repo
 5. Codeer de interactie met CSS en JS en commit je code naar je repo
 6. Test je ontwerp tijdens de code/design review in de eerste week. maak issues aan van de feedback die je krijgt en verbeter de feedback
 7. Doe een user test tijdens de code/design review in de tweede week en schrijf een verslag van de user test in de Wiki 
