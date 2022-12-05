@@ -25,7 +25,7 @@ Voor deze opdracht kies je een User Story waarin een gebruiker iets moet doen, z
 Als een gebruiker interactie heeft met een systeem, moet je goede feedback/feedforward ontwerpen en maken. Zo weet een gebruiker wat die kan verwachten en of de actie gelukt is. 
 
 Voor deze opdracht ga je eerst leren een wireflow te tekenen van de interactie die je wil maken. Dat doe je in de deeltaak [fix-the-flow-wireflow](https://github.com/fdnd-task/fix-the-flow-wireflow). 
-Daarna ga je de interactie coder met CSS en JS. Tijdens de code/design review op vrijdag ga je de interactie leren testen met een User test. 
+Daarna ga je de interactie coderen met CSS en JS. Tijdens de code/design review op vrijdag ga je de interactie leren testen met een User test. 
 
 
 ### Aanpak
