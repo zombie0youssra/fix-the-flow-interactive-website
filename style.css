@@ -52,13 +52,18 @@ li :hover{
     
 }
 
-.aanbevelingen i {
-    
+.aanbevelingen i:hover {
+    color: darkgray;
 }
+
+.boeken_info{
+    margin-left: 2em;
+}
+
+
 .boek_img{
     height: 9em;
     width: 6em;
-    padding-left: 2.5em;
 }
 
 
@@ -68,6 +73,21 @@ li :hover{
     border-color: transparent;
 }
 
+.favorite_boeken{
+    display: flex;
+    height: 15em;
+    width: 100%;
+    margin-left: 2em;
+}
+
+.favorite_lijst{
+    margin-right: 2em;
+}
+
+.fav_boek{
+    height: 9em;
+    width: 6em;
+}
 
 
 h1{
