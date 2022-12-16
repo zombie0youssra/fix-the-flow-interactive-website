@@ -31,7 +31,8 @@ li a{
     color: black;
     font-size: 17px;
     float: left;
-    padding-left: 0.8em;
+    padding-left: 1em;
+    padding-top: 0.5em;
 }
 
 li :hover{
@@ -44,17 +45,30 @@ li :hover{
     background-image: url(./assets/banner1.0.png);
 }
 
-.aanbevelingen_container{
+.aanbevelingen{
+    display: flex;
     height: 15em;
     width: 100%;
-    background-color: lightgray;
+    
 }
 
-.book_list{
-    height: 15em;
-    width: 100%;
-    background-color: lightgray;
+.aanbevelingen i {
+    
 }
+.boek_img{
+    height: 9em;
+    width: 6em;
+    padding-left: 2.5em;
+}
+
+
+.add_to{
+    background: white;
+    border-radius: 1em;
+    border-color: transparent;
+}
+
+
 
 h1{
     font-size: 20px;
