@@ -66,13 +66,6 @@ h1{
     
 }
 
-.aanbevelingen i:hover {
-    color: darkgray;
-}
-
-.aanbevelingen_click i {
-    color: red;
-}
 
 .boeken_info{
     margin-left: 2em;
