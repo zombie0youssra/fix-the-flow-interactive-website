@@ -1,7 +1,7 @@
-let aanbevelingen = document.querySelector('i')
+let heart = document.querySelector('i')
 
-aanbevelingen.addEventListener('click', colorveranderen )
+heart.addEventListener('click', colorveranderen )
 
 function colorveranderen(){
-  aanbevelingen.classList.toggle('aanbevelingen_click i')
+heart.classList.toggle('aanbevelingen_click i')
 }

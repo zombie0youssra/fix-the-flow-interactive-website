@@ -90,12 +90,6 @@ h1{
 }
 
 
-.add_to{
-    background: white;
-    border-radius: 1em;
-    border-color: transparent;
-}
-
 .favorite_boeken{
     display: flex;
     height: 15em;
