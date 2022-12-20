@@ -10,16 +10,21 @@ body{
     flex-direction: column;
     font-family: 'Sen', sans-serif;
     color:black;
+    margin: 0;
     
 }
 
 .logo_pic {
-    height: 5em;
-    width: 7em;
+    height: 4em;
+    width: 6em;
+    margin-left: 1em;
+    margin-top: 0.5em;
 }
 
 nav{
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    margin-left: -2.4em;
+    margin-top: -0.7em;
 }
 
 ul{
@@ -29,7 +34,7 @@ ul{
 li a{
     text-decoration: none;
     color: black;
-    font-size: 17px;
+    font-size: 16px;
     float: left;
     padding-left: 1em;
     padding-top: 0.5em;
@@ -45,6 +50,15 @@ li :hover{
     background-image: url(./assets/banner1.0.png);
 }
 
+
+main{
+    margin-left: 0.5em;
+}
+
+h1{
+    font-size: 19px;
+}
+
 .aanbevelingen{
     display: flex;
     height: 15em;
@@ -58,6 +72,11 @@ li :hover{
 
 .boeken_info{
     margin-left: 2em;
+}
+
+
+.titel_boek{
+    size: 16px;
 }
 
 
@@ -78,24 +97,41 @@ li :hover{
     height: 15em;
     width: 100%;
     margin-left: 2em;
+   
 }
 
 .favorite_lijst{
     margin-right: 2em;
 }
 
-.fav_boek{
+.fav_boek_img{
     height: 9em;
     width: 6em;
-}
-
-
-h1{
-    font-size: 20px;
 }
 
 
 
 footer{
     background-color: black;
+}
+
+
+/* collectie.html css */
+
+.new_boeken{
+    display: flex;
+    height: 15em;
+    width: 100%;
+}
+
+.new_boeken_info{
+
+}
+
+.new_boeken_img {
+    height: 9em;
+    width: 6em;
+}
+.new_boeken_titel{
+
 }
