@@ -70,6 +70,10 @@ h1{
     color: darkgray;
 }
 
+.aanbevelingen_click i {
+    color: red;
+}
+
 .boeken_info{
     margin-left: 2em;
 }
