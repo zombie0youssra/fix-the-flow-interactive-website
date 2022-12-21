@@ -52,7 +52,7 @@ li :hover{
 
 
 main{
-    margin-left: 0.5em;
+    margin-left: 0.3em;
 }
 
 h1{
@@ -73,7 +73,7 @@ h2{
 
 
 .boeken_info{
-    margin-left: 2em;
+    margin-left: 1.3em;
 }
 
 
@@ -93,7 +93,8 @@ h2{
 }
 
 .aanbevelingen i {
- padding-right: 2.3em;
+     padding-left: 1em;
+    
 }
 
 .aanbevelingen i:hover{
@@ -105,12 +106,11 @@ h2{
     display: flex;
     height: 15em;
     width: 100%;
-    margin-left: 2em;
    
 }
 
 .favorite_lijst{
-    margin-right: 2em;
+  margin-left: 1.3em;
 }
 
 .fav_boek_img{
