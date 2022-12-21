@@ -2,7 +2,7 @@
     --secundaire-active-color: red;
     --primary-text-color: black;
     --primary-bg-color: white;
-    --secundaire-bg-color: rgb(232, 229, 229);
+    --secundaire-bg-color: rgb(234, 234, 234);
 }
 
 body{
@@ -166,7 +166,14 @@ footer{
 
 /* loguit.html css */
 
-
+.login_box{
+   margin-top: 2em;
+   margin-left: 2em;
+   height: 20em ; 
+   width: 22em;
+   border-radius: 2em;
+   background-color: var(--secundaire-bg-color);
+}
 
 
 
