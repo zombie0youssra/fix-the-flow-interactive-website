@@ -1,15 +1,16 @@
 :root{
-    color: red;
-    color: black;
-    color: white;
-    color: lightgray;
+    --secundaire-active-color: red;
+    --primary-text-color: black;
+    --primary-bg-color: white;
+    --secundaire-bg-color: rgb(232, 229, 229);
 }
 
 body{
     display: flex;
     flex-direction: column;
     font-family: 'Sen', sans-serif;
-    color:black;
+    color:var(--primary-text-color);
+    background-color: var(--primary-bg-color);
     margin: 0;
     
 }
@@ -19,6 +20,12 @@ body{
     width: 6em;
     margin-left: 1em;
     margin-top: 0.5em;
+}
+
+.loguit{
+    margin-left: 20em;
+    text-decoration: none;
+    color: var(--secundaire-active-color);
 }
 
 nav{
@@ -33,7 +40,7 @@ ul{
 
 li a{
     text-decoration: none;
-    color: black;
+    color:var(--primary-text-color);
     font-size: 16px;
     float: left;
     padding-left: 1em;
@@ -41,7 +48,7 @@ li a{
 }
 
 li :hover{
-    color: red;
+    color: var(--secundaire-active-color);
 }
 
 .banner{
@@ -74,6 +81,8 @@ h2{
 
 .boeken_info{
     margin-left: 1.3em;
+    height: 13em;
+    width: 9em;
 }
 
 
@@ -98,7 +107,7 @@ h2{
 }
 
 .aanbevelingen i:hover{
-    color: red;
+    color:var(--secundaire-active-color);
 }
 
 
@@ -121,7 +130,7 @@ h2{
 
 
 footer{
-    background-color: black;
+    background-color:var(--primary-text-color);
 }
 
 
