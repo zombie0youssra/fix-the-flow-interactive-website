@@ -23,10 +23,16 @@ body{
     margin-top: 0.5em;
 }
 
-.loguit{
-    margin-left: 20em;
+.loguit_btn{
+    float: right;
+    margin-right: 1em;
+    margin-top: 3em;
     text-decoration: none;
-    color: var(--secundaire-active-color);
+    color: var(--primary-text-color);
+}
+
+.loguit_btn:hover{
+    color: red;
 }
 
 nav{
