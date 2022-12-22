@@ -32,7 +32,7 @@ body{
 }
 
 .loguit_btn:hover{
-    color: red;
+    color:var(--secundaire-active-color);
 }
 
 nav{
