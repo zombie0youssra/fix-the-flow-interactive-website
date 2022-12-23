@@ -177,13 +177,16 @@ footer{
 
 /* loguit.html css */
 
+fieldset{
+    border-style: none;
+}
+
 .login_box{
    margin-top: 2em;
    margin-left: 2em;
    height: 10em ; 
    width: 24em;
    border-radius: 2em;
-   background-color: var(--secundaire-bg-color);
    position:absolute;
 }
 
@@ -194,10 +197,28 @@ footer{
 .login_form{
     display: flex;
     flex-direction: column;
+    background-color: var(--secundaire-bg-color);
+    border-radius: 2em;
 }
+
 
 label{
     margin-top:0.4em;
+    margin-right: 0.5em;
 }
 
+input{
+    margin-bottom: 0.2em;
+}
 
+.login_button{
+    font-weight: bold;
+    border-style: none;
+    background-color: darkgrey;
+    border-radius: 1em;
+}
+
+.login_button:hover{
+    background-color: var(--secundaire-active-color);
+    color: var(--primary-bg-color);
+}
