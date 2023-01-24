@@ -5,7 +5,7 @@
 
 ## User Story
 <!-- Schrijf de user story waar je aan hebt gewerkt  -->
-Ik had userstory    die ging over
+Ik had Userstory 12 is als volgt: Als OBA lid wil ik op de website persoonlijke boekentips/evenementen krijgen, zodat ik gestimuleerd wordt meer te lezen #12
 
 ## de interactive website
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
