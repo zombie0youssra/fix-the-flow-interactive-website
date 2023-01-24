@@ -5,7 +5,7 @@
 
 ## User Story
 <!-- Schrijf de user story waar je aan hebt gewerkt  -->
-
+Ik had userstory    die ging over
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
@@ -14,10 +14,17 @@
 
 <!-- Voeg een link toe naar Github Pages 🌐-->https://zombie0youssra.github.io/fix-the-flow-interactive-website/
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+## tools 🔨
+- HTML
+- Javascript
+- CCS
+- VISUAL STUDIO CODE
+- LIGHTHOUSE
+
+## schetsen ✍
 
 
+## form ☕
 
 ## Licentie
 
